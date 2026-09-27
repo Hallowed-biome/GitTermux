@@ -8,6 +8,7 @@ echo "⚙️ A configurar o comando 'assistente' no sistema..."
 # Descarrega o script principal e envia-o direto para a pasta de binários do Termux
 curl -sLo $PREFIX/bin/assistente https://githubusercontent.com
 
+
 # Dá permissão de execução ao comando
 chmod +x $PREFIX/bin/assistente
 
